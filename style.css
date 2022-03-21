@@ -1,0 +1,17 @@
+h1 {
+color:rgb(162, 0, 255)
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+    color: rgb(65, 7, 119);
+}
+img {
+    width: 30%;
+}
+.center-img {
+    display: block;
+    margin: 0 auto;
+  }
